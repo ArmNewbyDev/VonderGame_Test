@@ -24,4 +24,6 @@
  - Time Division
  - Day Counter
  - Weekly Day
-# 
+# 20:10 Inventory System Research (~1 hrs.)
+# 21:15 Inventory System (~2 hrs.)
+# 23:30 Crafting System (~1.30 hrs.) (Fix bug 1 hrs. but just edit 0 to 1 D:)

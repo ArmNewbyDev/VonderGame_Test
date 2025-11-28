@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 579815ddc1591b74e86a74f494b170ee, type: 3}
+  m_Name: Chest
+  m_EditorClassIdentifier: 
+  recipeID: 0
+  outputItem: {fileID: 11400000, guid: 96b4184154e0d4f4189130997607040f, type: 2}
+  outputQuantity: 1
+  sortOrder: 0
+  requiredIngredients:
+  - item: {fileID: 11400000, guid: 463ba1e06870f08449f96299862b4ee6, type: 2}
+    quantity: 3
