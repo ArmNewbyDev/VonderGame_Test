@@ -15,4 +15,13 @@
 # 15:00 Find Information for system (~1 hrs.)
 # 15:40 Find Assets (~30 mins.)
 # 16:15 Setup Project (~20mins.)
-# 20:40 Start Project Walking System & Interact System
+# 20:40 Start Project Walking System & Interact System (40 mins.)
+
+---------------------------------------------------------------------------------------------------
+
+# 28/11/2025
+# 14:50 Time Hop Systems (~1.30hr.)
+ - Time Division
+ - Day Counter
+ - Weekly Day
+# 
