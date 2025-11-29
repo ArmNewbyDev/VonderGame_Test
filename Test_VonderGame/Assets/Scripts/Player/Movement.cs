@@ -11,6 +11,7 @@ public class Movement : MonoBehaviour
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Animator animator;
     IInteraction interactionObjectTemp;
+    public bool IsFaceRight {get; private set;} = true;
 
 
     void Start()
@@ -42,10 +43,12 @@ public class Movement : MonoBehaviour
         if (horizontalInput < 0)
         {
             spriteRenderer.flipX = true;
+            IsFaceRight = false;
         }
         else if (horizontalInput > 0)
         {
             spriteRenderer.flipX = false;
+            IsFaceRight = true;
         }
 
         if (movement.magnitude > 0)
